@@ -15,7 +15,7 @@
 
 ## Screenshots
 
-<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-expense-tracker/master/img/details.png?token=AH6YGR4YF5BKEJSOCLQ76M2746M2C"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-expense-tracker/master/img/home.png?token=AH6YGRZYQODZUITBNZFROCK746MTM">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-expense-tracker/master/img/details.png"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-expense-tracker/master/img/home.png?token=AH6YGRZYQODZUITBNZFROCK746MTM">
 
 
 ## Development
